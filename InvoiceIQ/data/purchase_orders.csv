@@ -1,0 +1,6 @@
+po_number,vendor_name,po_amount,currency,description
+PO-1001,Acme Supplies,1250.00,USD,Office supplies quarterly order
+PO-1002,Northstar Technologies,4800.00,USD,Laptop accessories
+PO-1003,Greenfield Logistics,2200.00,USD,Freight and delivery services
+PO-1004,Bluewave Consulting,3500.00,USD,Consulting services
+PO-1005,Metro Office Solutions,975.00,USD,Office furniture
